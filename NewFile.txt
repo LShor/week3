@@ -1,8 +1,2 @@
-Will this create a conflict?
-
-a
-b
-c
-d
-e
+Let's create a conflict :)
 
